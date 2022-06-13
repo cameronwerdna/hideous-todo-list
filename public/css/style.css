@@ -30,6 +30,10 @@ span {
     margin-top: 10px;
 }
 
+ul, li, span {
+    list-style-type: none;
+}
+
 input {
     color: purple;
 }
